@@ -1,0 +1,70 @@
+.tableBody {
+  background-color: #fff;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+  text-align: center;
+  min-height: 80px;
+  padding: 20px;
+  word-break: break-word;
+
+
+  
+  p {
+    height: 80px;
+    margin: 0;
+    display: flex;
+    align-items: center; 
+    
+  }
+.svgWrap {
+  display: flex;
+  justify-content: space-around;
+}
+}
+
+
+.fio {
+  width: 20%;
+}
+.doctor {
+  width: 20%;
+}
+.date {
+  width: 15%;
+}
+.complaint {
+  width: auto;
+}
+.svgs{
+  width: 10%;
+}
+
+
+tbody {
+  outline: 1px solid #000;
+
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  tr {
+
+    td {
+      padding: 20px 30px 15px 30px;
+    }
+  }
+}
+.tableHead {
+  background-color: #C4C4C4;
+  padding-bottom: 15px;
+  min-height: 40px;
+  text-align: center;
+  min-width: 50px;
+
+  
+  p{
+    text-align: center;
+    margin: 0;
+  }
+}
